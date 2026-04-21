@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #FAF7F2; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #FAF7F2;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #1C2833;
+  display: flex;
+  flex-direction: column;
+}
+.topbar {
+  padding: 22pt 48pt 10pt 48pt;
+  display: flex;
+  align-items: center;
+}
+.page-num {
+  color: #E76F51;
+  font-size: 10pt;
+  font-weight: bold;
+  letter-spacing: 2pt;
+  margin: 0 16pt 0 0;
+}
+.page-title {
+  color: #1F4E5F;
+  font-size: 11pt;
+  letter-spacing: 2pt;
+  font-weight: bold;
+  margin: 0;
+}
+.headline {
+  color: #1C2833;
+  font-size: 26pt;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+  margin: 4pt 48pt 18pt 48pt;
+  line-height: 1.35;
+}
+.hl-accent { color: #E76F51; }
+.content {
+  flex: 1;
+  display: flex;
+  padding: 0 48pt 28pt 48pt;
+  gap: 28pt;
+}
+.left-col {
+  width: 270pt;
+  background: #1F4E5F;
+  border-radius: 14pt;
+  padding: 30pt 26pt;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.radius-label {
+  color: #E76F51;
+  font-size: 10pt;
+  font-weight: bold;
+  letter-spacing: 2pt;
+  margin: 0 0 10pt 0;
+}
+.radius-big {
+  color: #FFFFFF;
+  font-size: 48pt;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+  margin: 0;
+  line-height: 1.05;
+}
+.radius-desc {
+  color: #FAF7F2;
+  font-size: 12pt;
+  margin: 14pt 0 0 0;
+  line-height: 1.7;
+  opacity: 0.9;
+}
+.right-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10pt;
+}
+.point-card {
+  background: #FFFFFF;
+  border-left: 6pt solid #E76F51;
+  border-radius: 6pt;
+  padding: 14pt 20pt;
+  box-shadow: 2px 2px 6px rgba(28, 40, 51, 0.08);
+}
+.point-title {
+  color: #1F4E5F;
+  font-size: 13pt;
+  font-weight: bold;
+  margin: 0 0 4pt 0;
+}
+.point-body {
+  color: #1C2833;
+  font-size: 11pt;
+  margin: 0;
+  line-height: 1.55;
+}
+.stats-row {
+  display: flex;
+  gap: 12pt;
+  margin: 4pt 0 0 0;
+}
+.stat-card {
+  flex: 1;
+  background: #FAF7F2;
+  border: 1.5pt solid #277884;
+  border-radius: 8pt;
+  padding: 10pt 12pt;
+}
+.stat-num {
+  color: #E76F51;
+  font-size: 22pt;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+  margin: 0;
+  line-height: 1;
+}
+.stat-label {
+  color: #5D6D7E;
+  font-size: 9pt;
+  margin: 4pt 0 0 0;
+  line-height: 1.4;
+}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <p class="page-num">02 / PROBLEM</p>
+  <p class="page-title">課題提起</p>
+</div>
+<p class="headline">大企業の <span class="hl-accent">"視野の狭窄"</span> が、優秀な人材を外へ流出させている</p>
+<div class="content">
+  <div class="left-col">
+    <p class="radius-label">YOUR CAREER VIEW</p>
+    <p class="radius-big">半径5m</p>
+    <p class="radius-desc">見えるロールモデルは、直属の上司と先輩だけ。「この会社にいても、この道しかない」という錯覚が離職を生む。</p>
+  </div>
+  <div class="right-col">
+    <div class="point-card">
+      <p class="point-title">視界の固定化</p>
+      <p class="point-body">社内に全く違うキャリアを歩む人がいるのに、その存在を知る手段がない。</p>
+    </div>
+    <div class="point-card">
+      <p class="point-title">定量データも警告している</p>
+      <div class="stats-row">
+        <div class="stat-card">
+          <p class="stat-num">31.5%</p>
+          <p class="stat-label">大卒新入社員の3年以内離職率（厚労省）</p>
+        </div>
+        <div class="stat-card">
+          <p class="stat-num">5%</p>
+          <p class="stat-label">日本の「熱意ある社員」の割合（Gallup）</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

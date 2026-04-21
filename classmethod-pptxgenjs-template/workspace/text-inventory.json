@@ -1,0 +1,1193 @@
+{
+  "slide-0": {
+    "shape-0": {
+      "left": 0.5,
+      "top": 1.7,
+      "width": 9.0,
+      "height": 1.4,
+      "paragraphs": [
+        {
+          "text": "XXXX プレゼンテーションタイトル",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 38.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 1.0,
+      "top": 3.1,
+      "width": 8.0,
+      "height": 0.6,
+      "paragraphs": [
+        {
+          "text": "XXXX サブタイトル・説明文をここに入力",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 2.0,
+      "top": 4.1,
+      "width": 6.0,
+      "height": 0.5,
+      "paragraphs": [
+        {
+          "text": "XXXX 20XX/XX/XX  発表者名",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 14.0,
+          "color": "999999"
+        }
+      ]
+    }
+  },
+  "slide-1": {
+    "shape-0": {
+      "left": 0.5,
+      "top": 0.08,
+      "width": 9.0,
+      "height": 0.6,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-1": 0.15
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "XXXX スライドタイトル",
+          "font_name": "Noto Sans JP",
+          "font_size": 32.0,
+          "bold": true,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 9.2,
+      "top": 0.12,
+      "width": 0.5,
+      "height": 0.5,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-0": 0.15
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "2",
+          "alignment": "RIGHT",
+          "font_name": "Noto Sans JP",
+          "font_size": 12.0,
+          "color": "999999"
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 0.6,
+      "top": 0.95,
+      "width": 8.8,
+      "height": 4.33,
+      "paragraphs": [
+        {
+          "text": "XXXX 見出しテキスト",
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 24.0,
+          "bold": true,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目1：説明テキストをここに入力",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目2：説明テキストをここに入力",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目3：説明テキストをここに入力",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目4：説明テキストをここに入力",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        }
+      ]
+    }
+  },
+  "slide-2": {
+    "shape-0": {
+      "left": 0.6,
+      "top": 0.3,
+      "width": 8.8,
+      "height": 0.8,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-1": 0.06
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "XXXX フルコンテンツのタイトル",
+          "font_name": "Noto Sans JP",
+          "font_size": 36.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 9.2,
+      "top": 0.12,
+      "width": 0.5,
+      "height": 0.5,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-0": 0.06
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "3",
+          "alignment": "RIGHT",
+          "font_name": "Noto Sans JP",
+          "font_size": 12.0,
+          "color": "999999"
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 0.6,
+      "top": 1.2,
+      "width": 8.8,
+      "height": 4.0,
+      "paragraphs": [
+        {
+          "text": "XXXX このレイアウトはヘッダーバーがなく、コンテンツ領域を広く使えます。情報量が多いスライドや、独自のレイアウトが必要な場合に適しています。",
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目1",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目2",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目3",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        }
+      ]
+    }
+  },
+  "slide-3": {
+    "shape-0": {
+      "left": 0.5,
+      "top": 0.08,
+      "width": 9.0,
+      "height": 0.6,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-1": 0.15
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "XXXX 3カラムレイアウト",
+          "font_name": "Noto Sans JP",
+          "font_size": 32.0,
+          "bold": true,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 9.2,
+      "top": 0.12,
+      "width": 0.5,
+      "height": 0.5,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-0": 0.15
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "8",
+          "alignment": "RIGHT",
+          "font_name": "Noto Sans JP",
+          "font_size": 12.0,
+          "color": "999999"
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 0.6,
+      "top": 0.95,
+      "width": 2.77,
+      "height": 4.33,
+      "paragraphs": [
+        {
+          "text": "XXXX カラム1",
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 24.0,
+          "bold": true,
+          "color": "262626"
+        },
+        {
+          "text": "XXXX 項目A",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 項目B",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 項目C",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 3.62,
+      "top": 0.95,
+      "width": 2.77,
+      "height": 4.33,
+      "paragraphs": [
+        {
+          "text": "XXXX カラム2",
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 24.0,
+          "bold": true,
+          "color": "262626"
+        },
+        {
+          "text": "XXXX 項目A",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 項目B",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 項目C",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 6.63,
+      "top": 0.95,
+      "width": 2.77,
+      "height": 4.33,
+      "paragraphs": [
+        {
+          "text": "XXXX カラム3",
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 24.0,
+          "bold": true,
+          "color": "262626"
+        },
+        {
+          "text": "XXXX 項目A",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 項目B",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 項目C",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        }
+      ]
+    }
+  },
+  "slide-4": {
+    "shape-0": {
+      "left": 0.5,
+      "top": 0.08,
+      "width": 9.0,
+      "height": 0.6,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-1": 0.15
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "XXXX プロセス・手順",
+          "font_name": "Noto Sans JP",
+          "font_size": 32.0,
+          "bold": true,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 9.2,
+      "top": 0.12,
+      "width": 0.5,
+      "height": 0.5,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-0": 0.15
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "10",
+          "alignment": "RIGHT",
+          "font_name": "Noto Sans JP",
+          "font_size": 12.0,
+          "color": "999999"
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.12,
+      "top": 1.55,
+      "width": 0.7,
+      "height": 0.7,
+      "paragraphs": [
+        {
+          "text": "01",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "FFFFFF"
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 3.48,
+      "top": 1.55,
+      "width": 0.7,
+      "height": 0.7,
+      "paragraphs": [
+        {
+          "text": "02",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "FFFFFF"
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 5.83,
+      "top": 1.55,
+      "width": 0.7,
+      "height": 0.7,
+      "paragraphs": [
+        {
+          "text": "03",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "FFFFFF"
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.18,
+      "top": 1.55,
+      "width": 0.7,
+      "height": 0.7,
+      "paragraphs": [
+        {
+          "text": "04",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "FFFFFF"
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 0.47,
+      "top": 2.45,
+      "width": 2.0,
+      "height": 0.5,
+      "paragraphs": [
+        {
+          "text": "XXXX ステップ1",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-7": {
+      "left": 0.47,
+      "top": 2.95,
+      "width": 2.0,
+      "height": 1.2,
+      "paragraphs": [
+        {
+          "text": "XXXX 説明文をここに入力",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 14.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-8": {
+      "left": 2.83,
+      "top": 2.45,
+      "width": 2.0,
+      "height": 0.5,
+      "paragraphs": [
+        {
+          "text": "XXXX ステップ2",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-9": {
+      "left": 2.83,
+      "top": 2.95,
+      "width": 2.0,
+      "height": 1.2,
+      "paragraphs": [
+        {
+          "text": "XXXX 説明文をここに入力",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 14.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-10": {
+      "left": 5.17,
+      "top": 2.45,
+      "width": 2.0,
+      "height": 0.5,
+      "paragraphs": [
+        {
+          "text": "XXXX ステップ3",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-11": {
+      "left": 5.17,
+      "top": 2.95,
+      "width": 2.0,
+      "height": 1.2,
+      "paragraphs": [
+        {
+          "text": "XXXX 説明文をここに入力",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 14.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-12": {
+      "left": 7.53,
+      "top": 2.45,
+      "width": 2.0,
+      "height": 0.5,
+      "paragraphs": [
+        {
+          "text": "XXXX ステップ4",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-13": {
+      "left": 7.53,
+      "top": 2.95,
+      "width": 2.0,
+      "height": 1.2,
+      "paragraphs": [
+        {
+          "text": "XXXX 説明文をここに入力",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 14.0,
+          "color": "595959"
+        }
+      ]
+    }
+  },
+  "slide-5": {
+    "shape-0": {
+      "left": 0.6,
+      "top": 0.3,
+      "width": 8.8,
+      "height": 0.8,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-1": 0.06
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "XXXX フルコンテンツのタイトル",
+          "font_name": "Noto Sans JP",
+          "font_size": 36.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 9.2,
+      "top": 0.12,
+      "width": 0.5,
+      "height": 0.5,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-0": 0.06
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "3",
+          "alignment": "RIGHT",
+          "font_name": "Noto Sans JP",
+          "font_size": 12.0,
+          "color": "999999"
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 0.6,
+      "top": 1.2,
+      "width": 8.8,
+      "height": 4.0,
+      "paragraphs": [
+        {
+          "text": "XXXX このレイアウトはヘッダーバーがなく、コンテンツ領域を広く使えます。情報量が多いスライドや、独自のレイアウトが必要な場合に適しています。",
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目1",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目2",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目3",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        }
+      ]
+    }
+  },
+  "slide-6": {
+    "shape-0": {
+      "left": 0.6,
+      "top": 0.3,
+      "width": 8.8,
+      "height": 0.8,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-1": 0.06
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "XXXX フルコンテンツのタイトル",
+          "font_name": "Noto Sans JP",
+          "font_size": 36.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 9.2,
+      "top": 0.12,
+      "width": 0.5,
+      "height": 0.5,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-0": 0.06
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "3",
+          "alignment": "RIGHT",
+          "font_name": "Noto Sans JP",
+          "font_size": 12.0,
+          "color": "999999"
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 0.6,
+      "top": 1.2,
+      "width": 8.8,
+      "height": 4.0,
+      "paragraphs": [
+        {
+          "text": "XXXX このレイアウトはヘッダーバーがなく、コンテンツ領域を広く使えます。情報量が多いスライドや、独自のレイアウトが必要な場合に適しています。",
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目1",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目2",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "XXXX 箇条書き項目3",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "434343"
+        }
+      ]
+    }
+  },
+  "slide-7": {
+    "shape-0": {
+      "left": 0.5,
+      "top": 0.08,
+      "width": 9.0,
+      "height": 0.6,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-1": 0.15
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "XXXX プロセス・手順",
+          "font_name": "Noto Sans JP",
+          "font_size": 32.0,
+          "bold": true,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 9.2,
+      "top": 0.12,
+      "width": 0.5,
+      "height": 0.5,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-0": 0.15
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "10",
+          "alignment": "RIGHT",
+          "font_name": "Noto Sans JP",
+          "font_size": 12.0,
+          "color": "999999"
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.12,
+      "top": 1.55,
+      "width": 0.7,
+      "height": 0.7,
+      "paragraphs": [
+        {
+          "text": "01",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "FFFFFF"
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 3.48,
+      "top": 1.55,
+      "width": 0.7,
+      "height": 0.7,
+      "paragraphs": [
+        {
+          "text": "02",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "FFFFFF"
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 5.83,
+      "top": 1.55,
+      "width": 0.7,
+      "height": 0.7,
+      "paragraphs": [
+        {
+          "text": "03",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "FFFFFF"
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.18,
+      "top": 1.55,
+      "width": 0.7,
+      "height": 0.7,
+      "paragraphs": [
+        {
+          "text": "04",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "FFFFFF"
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 0.47,
+      "top": 2.45,
+      "width": 2.0,
+      "height": 0.5,
+      "paragraphs": [
+        {
+          "text": "XXXX ステップ1",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-7": {
+      "left": 0.47,
+      "top": 2.95,
+      "width": 2.0,
+      "height": 1.2,
+      "paragraphs": [
+        {
+          "text": "XXXX 説明文をここに入力",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 14.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-8": {
+      "left": 2.83,
+      "top": 2.45,
+      "width": 2.0,
+      "height": 0.5,
+      "paragraphs": [
+        {
+          "text": "XXXX ステップ2",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-9": {
+      "left": 2.83,
+      "top": 2.95,
+      "width": 2.0,
+      "height": 1.2,
+      "paragraphs": [
+        {
+          "text": "XXXX 説明文をここに入力",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 14.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-10": {
+      "left": 5.17,
+      "top": 2.45,
+      "width": 2.0,
+      "height": 0.5,
+      "paragraphs": [
+        {
+          "text": "XXXX ステップ3",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-11": {
+      "left": 5.17,
+      "top": 2.95,
+      "width": 2.0,
+      "height": 1.2,
+      "paragraphs": [
+        {
+          "text": "XXXX 説明文をここに入力",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 14.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-12": {
+      "left": 7.53,
+      "top": 2.45,
+      "width": 2.0,
+      "height": 0.5,
+      "paragraphs": [
+        {
+          "text": "XXXX ステップ4",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-13": {
+      "left": 7.53,
+      "top": 2.95,
+      "width": 2.0,
+      "height": 1.2,
+      "paragraphs": [
+        {
+          "text": "XXXX 説明文をここに入力",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 14.0,
+          "color": "595959"
+        }
+      ]
+    }
+  },
+  "slide-8": {
+    "shape-0": {
+      "left": 0.5,
+      "top": 0.08,
+      "width": 9.0,
+      "height": 0.6,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-1": 0.15
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "XXXX 主要指標",
+          "font_name": "Noto Sans JP",
+          "font_size": 32.0,
+          "bold": true,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 9.2,
+      "top": 0.12,
+      "width": 0.5,
+      "height": 0.5,
+      "overlap": {
+        "overlapping_shapes": {
+          "shape-0": 0.15
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "9",
+          "alignment": "RIGHT",
+          "font_name": "Noto Sans JP",
+          "font_size": 12.0,
+          "color": "999999"
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 0.75,
+      "top": 2.25,
+      "width": 2.6,
+      "height": 1.1,
+      "paragraphs": [
+        {
+          "text": "98%",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 52.0,
+          "bold": true,
+          "color": "2C67E5"
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 3.7,
+      "top": 2.25,
+      "width": 2.6,
+      "height": 1.1,
+      "paragraphs": [
+        {
+          "text": "2.5x",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 52.0,
+          "bold": true,
+          "color": "2C67E5"
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 6.65,
+      "top": 2.25,
+      "width": 2.6,
+      "height": 1.1,
+      "paragraphs": [
+        {
+          "text": "500+",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 52.0,
+          "bold": true,
+          "color": "2C67E5"
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 0.95,
+      "top": 3.6,
+      "width": 2.2,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "XXXX 指標ラベル1",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 3.9,
+      "top": 3.6,
+      "width": 2.2,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "XXXX 指標ラベル2",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-7": {
+      "left": 6.85,
+      "top": 3.6,
+      "width": 2.2,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "XXXX 指標ラベル3",
+          "alignment": "CENTER",
+          "font_name": "Noto Sans JP",
+          "font_size": 16.0,
+          "color": "595959"
+        }
+      ]
+    }
+  },
+  "slide-9": {
+    "shape-0": {
+      "left": 1.2,
+      "top": 1.4,
+      "width": 7.6,
+      "height": 1.2,
+      "paragraphs": [
+        {
+          "text": "XXXX キーメッセージ",
+          "font_name": "Noto Sans JP",
+          "font_size": 42.0,
+          "bold": true,
+          "color": "FFFFFF"
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 1.2,
+      "top": 2.8,
+      "width": 7.6,
+      "height": 1.5,
+      "paragraphs": [
+        {
+          "text": "XXXX 強調したいメッセージやセクションの導入文をここに入力します。青背景のスライドは視覚的なアクセントになります。",
+          "font_name": "Noto Sans JP",
+          "font_size": 18.0,
+          "color": "FFFFFF"
+        }
+      ]
+    }
+  }
+}

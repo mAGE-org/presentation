@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #FAF7F2; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #FAF7F2;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #1C2833;
+  display: flex;
+  flex-direction: column;
+}
+.topbar {
+  padding: 22pt 48pt 10pt 48pt;
+  display: flex;
+  align-items: center;
+}
+.page-num {
+  color: #E76F51;
+  font-size: 10pt;
+  font-weight: bold;
+  letter-spacing: 2pt;
+  margin: 0 16pt 0 0;
+}
+.page-title {
+  color: #1F4E5F;
+  font-size: 11pt;
+  letter-spacing: 2pt;
+  font-weight: bold;
+  margin: 0;
+}
+.headline {
+  color: #1C2833;
+  font-size: 26pt;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+  margin: 4pt 48pt 18pt 48pt;
+  line-height: 1.35;
+}
+.hl-accent { color: #E76F51; }
+.persona {
+  margin: 0 48pt 14pt 48pt;
+  padding: 12pt 18pt;
+  background: #FFFFFF;
+  border-left: 6pt solid #277884;
+  border-radius: 6pt;
+}
+.persona p {
+  margin: 0;
+  color: #1C2833;
+  font-size: 12pt;
+  line-height: 1.5;
+}
+.persona-label {
+  color: #277884;
+  font-weight: bold;
+  font-size: 10.5pt;
+  letter-spacing: 1pt;
+}
+.flow {
+  display: flex;
+  padding: 0 34pt 20pt 34pt;
+  gap: 8pt;
+  flex: 1;
+  align-items: stretch;
+}
+.step {
+  flex: 1;
+  background: #FFFFFF;
+  border-radius: 10pt;
+  padding: 16pt 12pt;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 2px 2px 6px rgba(28, 40, 51, 0.08);
+}
+.step-num {
+  color: #E76F51;
+  font-size: 24pt;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+  margin: 0 0 4pt 0;
+  line-height: 1;
+}
+.step-title {
+  color: #1F4E5F;
+  font-size: 11.5pt;
+  font-weight: bold;
+  margin: 0 0 8pt 0;
+  line-height: 1.3;
+}
+.step-body {
+  color: #1C2833;
+  font-size: 9.5pt;
+  margin: 0;
+  line-height: 1.5;
+}
+.arrow {
+  width: 14pt;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #E76F51;
+  font-size: 18pt;
+  font-weight: bold;
+}
+.arrow p { margin: 0; color: #E76F51; font-size: 18pt; font-weight: bold; }
+.last-step {
+  background: #1F4E5F;
+}
+.last-step .step-title { color: #FFFFFF; }
+.last-step .step-body { color: #FAF7F2; }
+.last-step .step-num { color: #F4A261; }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <p class="page-num">05 / USER FLOW</p>
+  <p class="page-title">ユーザー体験フロー</p>
+</div>
+<p class="headline">「今の仕事の延長しか見えない若手」が、 <span class="hl-accent">新しい選択肢に出会う</span> まで</p>
+<div class="persona">
+  <p><span class="persona-label">PERSONA</span>　入社3年目・営業部所属。「このまま営業でキャリアを積むしかないのか」と漠然と悩む田中さん</p>
+</div>
+<div class="flow">
+  <div class="step">
+    <p class="step-num">01</p>
+    <p class="step-title">相談を投げる</p>
+    <p class="step-body">「営業以外で自分を活かせる道はあるのか」と素朴な悩みをAIに共有</p>
+  </div>
+  <div class="arrow"><p>›</p></div>
+  <div class="step">
+    <p class="step-num">02</p>
+    <p class="step-title">意外な社員を発見</p>
+    <p class="step-body">営業経験を経てプロダクト企画に転じたA氏、UXリサーチャーのB氏を推薦</p>
+  </div>
+  <div class="arrow"><p>›</p></div>
+  <div class="step">
+    <p class="step-num">03</p>
+    <p class="step-title">疑似対話で掘り下げる</p>
+    <p class="step-body">インタビュー記事ベースで、その人の考え方・勉強法・転機を対話で追体験</p>
+  </div>
+  <div class="arrow"><p>›</p></div>
+  <div class="step">
+    <p class="step-num">04</p>
+    <p class="step-title">選択肢が見える</p>
+    <p class="step-body">スキルマップと照合し、次に伸ばすべき力と社内公募を具体的に提示</p>
+  </div>
+  <div class="arrow"><p>›</p></div>
+  <div class="step last-step">
+    <p class="step-num">05</p>
+    <p class="step-title">日々の伴走</p>
+    <p class="step-body">AIが定期的に励まし・公募通知・1on1前の棚卸しを提案</p>
+  </div>
+</div>
+</body>
+</html>

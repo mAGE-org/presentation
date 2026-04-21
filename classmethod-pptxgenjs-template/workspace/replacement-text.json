@@ -1,0 +1,650 @@
+{
+  "slide-0": {
+    "shape-0": {
+      "paragraphs": [
+        {
+          "text": "キャリアの選択肢、\"半径5m\"で決めていませんか？",
+          "alignment": "CENTER",
+          "font_size": 34.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        {
+          "text": "その会社ならではのキャリア実現を支援するAIエージェント",
+          "alignment": "CENTER",
+          "font_size": 16.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        {
+          "text": "Google AI Agent Hackathon 2026",
+          "alignment": "CENTER",
+          "font_size": 14.0,
+          "color": "999999"
+        }
+      ]
+    }
+  },
+  "slide-1": {
+    "shape-0": {
+      "paragraphs": [
+        {
+          "text": "課題提起：大企業の\"視野の狭窄\"問題",
+          "font_size": 28.0,
+          "bold": true,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        {
+          "text": "なぜ優秀な人材が辞めていくのか？",
+          "space_after": 4.0,
+          "font_size": 22.0,
+          "bold": true,
+          "color": "434343"
+        },
+        {
+          "text": "見えるロールモデルが「直属の上司・先輩」に限られ、「この会社にいてもこの道しかない」と感じて辞めていく",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "実際には社内に全く違うキャリアを歩んでいる人がいるのに、その存在を知る手段がない",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "入社3年以内の離職率は約30%（厚生労働省調査）、エンゲージメント低下が主因",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "既存の解決策（1on1、社内公募、外部コーチング）は\"発見\"を生む設計になっていない",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        }
+      ]
+    }
+  },
+  "slide-2": {
+    "shape-0": {
+      "paragraphs": [
+        {
+          "text": "本質的な原因：\"知れば辞めない\"構造",
+          "font_size": 32.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        {
+          "text": "辞める人の多くは「会社が嫌い」なのではなく、「この会社での可能性が見えない」から辞めている。",
+          "space_after": 4.0,
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "異なるキャリアを歩む社員の考え方・学び方・ターニングポイントを知ることができれば、自社の中にまだ見ぬ選択肢があると気づける",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "既存の1on1や社内公募は「偶然の出会い」頼みで、組織的に\"発見\"を生む仕組みがない",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "外部コーチングは汎用的で「その会社ならでは」のキャリアパスを提示できない",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        }
+      ]
+    }
+  },
+  "slide-3": {
+    "shape-0": {
+      "paragraphs": [
+        {
+          "text": "解決策：3つの価値を届けるAIエージェント",
+          "font_size": 28.0,
+          "bold": true,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        {
+          "text": "① 発見",
+          "space_after": 4.0,
+          "font_size": 22.0,
+          "bold": true,
+          "color": "262626"
+        },
+        {
+          "text": "その会社固有のキャリアパスを提案",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "ロールモデル社員との\"疑似対話\"で視野を拡大",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "インタビュー記事を元にした対話型キャリア相談",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        {
+          "text": "② 継続",
+          "space_after": 4.0,
+          "font_size": 22.0,
+          "bold": true,
+          "color": "262626"
+        },
+        {
+          "text": "プロアクティブな励ましメッセージ",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "公募更新の自動通知",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "新入社員への定期メンタリング",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        {
+          "text": "③ 組織",
+          "space_after": 4.0,
+          "font_size": 22.0,
+          "bold": true,
+          "color": "262626"
+        },
+        {
+          "text": "全社員のスキルマップ蓄積",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "社員マッチング・勉強会促進",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "最適な人員配置の自動化",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        }
+      ]
+    }
+  },
+  "slide-4": {
+    "shape-0": {
+      "paragraphs": [
+        {
+          "text": "ユーザー体験フロー",
+          "font_size": 32.0,
+          "bold": true,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-6": {
+      "paragraphs": [
+        {
+          "text": "相談",
+          "alignment": "CENTER",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-7": {
+      "paragraphs": [
+        {
+          "text": "「今の仕事の延長しか見えない」若手社員がキャリアの悩みを相談",
+          "alignment": "CENTER",
+          "font_size": 12.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-8": {
+      "paragraphs": [
+        {
+          "text": "発見",
+          "alignment": "CENTER",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-9": {
+      "paragraphs": [
+        {
+          "text": "意外なキャリアを歩んだロールモデル社員をAIが紹介",
+          "alignment": "CENTER",
+          "font_size": 12.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-10": {
+      "paragraphs": [
+        {
+          "text": "対話",
+          "alignment": "CENTER",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-11": {
+      "paragraphs": [
+        {
+          "text": "その人の考え方・勉強法・ターニングポイントを疑似対話で深掘り",
+          "alignment": "CENTER",
+          "font_size": 12.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-12": {
+      "paragraphs": [
+        {
+          "text": "行動",
+          "alignment": "CENTER",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-13": {
+      "paragraphs": [
+        {
+          "text": "新しい選択肢が見え、キャリアプラン策定・社内公募へアクション",
+          "alignment": "CENTER",
+          "font_size": 12.0,
+          "color": "595959"
+        }
+      ]
+    }
+  },
+  "slide-5": {
+    "shape-0": {
+      "paragraphs": [
+        {
+          "text": "独自性：なぜ\"その会社ならでは\"が可能か",
+          "font_size": 32.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        {
+          "text": "社内データをRAGで取り込み、汎用キャリアアドバイスとは一線を画す",
+          "space_after": 4.0,
+          "font_size": 16.0,
+          "color": "434343"
+        },
+        {
+          "text": "社内インタビュー記事・社員プロフィールからロールモデルの人物像を構築",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "スキルデータ・評価情報からキャリアパスの実績データを蓄積",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "社内公募・異動情報をリアルタイムに反映し、最新のキャリア選択肢を提示",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        }
+      ]
+    }
+  },
+  "slide-6": {
+    "shape-0": {
+      "paragraphs": [
+        {
+          "text": "アーキテクチャ概要",
+          "font_size": 36.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        {
+          "text": "Google Cloud + Gemini をベースとした構成",
+          "space_after": 4.0,
+          "font_size": 16.0,
+          "bold": true,
+          "color": "434343"
+        },
+        {
+          "text": "LLM: Gemini（キャリア相談対話・ロールモデル疑似対話）",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "RAG: Vertex AI Search（社内インタビュー・スキルデータ・公募情報）",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "Agent: ADK（プロアクティブ通知・メンタリング自動化）",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "データ基盤: BigQuery（スキルマップ蓄積・人員配置最適化）",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        },
+        {
+          "text": "フロントエンド: Chat UI（Slack / Webアプリ連携）",
+          "bullet": true,
+          "level": 0,
+          "space_after": 4.0,
+          "font_size": 14.0,
+          "color": "434343"
+        }
+      ]
+    }
+  },
+  "slide-7": {
+    "shape-0": {
+      "paragraphs": [
+        {
+          "text": "導入ロードマップ：3フェーズ展開",
+          "font_size": 28.0,
+          "bold": true,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-6": {
+      "paragraphs": [
+        {
+          "text": "Phase 1",
+          "alignment": "CENTER",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-7": {
+      "paragraphs": [
+        {
+          "text": "MVP：キャリア相談チャットとロールモデル疑似対話機能",
+          "alignment": "CENTER",
+          "font_size": 12.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-8": {
+      "paragraphs": [
+        {
+          "text": "Phase 2",
+          "alignment": "CENTER",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-9": {
+      "paragraphs": [
+        {
+          "text": "プロアクティブ機能：励まし・公募通知・新人メンタリング",
+          "alignment": "CENTER",
+          "font_size": 12.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-10": {
+      "paragraphs": [
+        {
+          "text": "Phase 3",
+          "alignment": "CENTER",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-11": {
+      "paragraphs": [
+        {
+          "text": "組織データ活用：スキルマップ・人員配置最適化・社員マッチング",
+          "alignment": "CENTER",
+          "font_size": 12.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-12": {
+      "paragraphs": [
+        {
+          "text": "拡張",
+          "alignment": "CENTER",
+          "font_size": 16.0,
+          "bold": true,
+          "color": "262626"
+        }
+      ]
+    },
+    "shape-13": {
+      "paragraphs": [
+        {
+          "text": "他社・グループ会社への横展開、業界特化モデルの開発",
+          "alignment": "CENTER",
+          "font_size": 12.0,
+          "color": "595959"
+        }
+      ]
+    }
+  },
+  "slide-8": {
+    "shape-0": {
+      "paragraphs": [
+        {
+          "text": "期待される効果",
+          "font_size": 32.0,
+          "bold": true,
+          "color": "434343"
+        }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        {
+          "text": "-30%",
+          "alignment": "CENTER",
+          "font_size": 52.0,
+          "bold": true,
+          "color": "2C67E5"
+        }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        {
+          "text": "+40%",
+          "alignment": "CENTER",
+          "font_size": 52.0,
+          "bold": true,
+          "color": "2C67E5"
+        }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        {
+          "text": "-50%",
+          "alignment": "CENTER",
+          "font_size": 52.0,
+          "bold": true,
+          "color": "2C67E5"
+        }
+      ]
+    },
+    "shape-5": {
+      "paragraphs": [
+        {
+          "text": "離職率低下（入社3年以内）",
+          "alignment": "CENTER",
+          "font_size": 14.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-6": {
+      "paragraphs": [
+        {
+          "text": "エンゲージメントスコア向上",
+          "alignment": "CENTER",
+          "font_size": 14.0,
+          "color": "595959"
+        }
+      ]
+    },
+    "shape-7": {
+      "paragraphs": [
+        {
+          "text": "人事キャリア面談工数削減",
+          "alignment": "CENTER",
+          "font_size": 14.0,
+          "color": "595959"
+        }
+      ]
+    }
+  },
+  "slide-9": {
+    "shape-0": {
+      "paragraphs": [
+        {
+          "text": "半径5mの外に、あなたのキャリアがある。",
+          "font_size": 38.0,
+          "bold": true,
+          "color": "FFFFFF"
+        }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        {
+          "text": "AIエージェントが、一人ひとりの「その会社ならでは」のキャリアを照らし出す。見えなかった可能性を見つけ、つながり、歩み出す力を。",
+          "font_size": 18.0,
+          "color": "FFFFFF"
+        }
+      ]
+    }
+  }
+}

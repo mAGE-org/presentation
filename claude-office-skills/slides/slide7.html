@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #FAF7F2; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #FAF7F2;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #1C2833;
+  display: flex;
+  flex-direction: column;
+}
+.topbar {
+  padding: 22pt 48pt 10pt 48pt;
+  display: flex;
+  align-items: center;
+}
+.page-num {
+  color: #E76F51;
+  font-size: 10pt;
+  font-weight: bold;
+  letter-spacing: 2pt;
+  margin: 0 16pt 0 0;
+}
+.page-title {
+  color: #1F4E5F;
+  font-size: 11pt;
+  letter-spacing: 2pt;
+  font-weight: bold;
+  margin: 0;
+}
+.headline {
+  color: #1C2833;
+  font-size: 26pt;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+  margin: 4pt 48pt 14pt 48pt;
+  line-height: 1.35;
+}
+.sub {
+  color: #5D6D7E;
+  font-size: 12pt;
+  margin: 0 48pt 16pt 48pt;
+  line-height: 1.5;
+}
+.stack {
+  padding: 0 48pt 20pt 48pt;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8pt;
+}
+.layer {
+  background: #FFFFFF;
+  border-radius: 10pt;
+  padding: 12pt 18pt;
+  display: flex;
+  align-items: center;
+  box-shadow: 2px 2px 6px rgba(28, 40, 51, 0.08);
+}
+.layer-label {
+  width: 130pt;
+  color: #E76F51;
+  font-size: 11pt;
+  font-weight: bold;
+  letter-spacing: 1pt;
+  margin: 0;
+}
+.layer-content {
+  flex: 1;
+  display: flex;
+  gap: 10pt;
+}
+.tech-chip {
+  background: #EAF1F3;
+  border: 1pt solid #277884;
+  border-radius: 14pt;
+  padding: 4pt 12pt;
+}
+.tech-chip p {
+  margin: 0;
+  color: #1F4E5F;
+  font-size: 10pt;
+  font-weight: bold;
+}
+.layer-teal {
+  background: #1F4E5F;
+}
+.layer-teal .layer-label {
+  color: #F4A261;
+}
+.layer-teal .tech-chip {
+  background: rgba(255,255,255,0.1);
+  border: 1pt solid #F4A261;
+}
+.layer-teal .tech-chip p {
+  color: #FFFFFF;
+}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <p class="page-num">07 / ARCHITECTURE</p>
+  <p class="page-title">アーキテクチャ概要</p>
+</div>
+<p class="headline">Google Cloud 上で組み上げる <span style="color:#E76F51;">4層構成</span></p>
+<p class="sub">既存のエンタープライズ基盤にそのまま接続できる、現実的で最短距離の構成。</p>
+<div class="stack">
+  <div class="layer">
+    <p class="layer-label">① USER INTERFACE</p>
+    <div class="layer-content">
+      <div class="tech-chip"><p>Slack / Teams Bot</p></div>
+      <div class="tech-chip"><p>Web Chat (Next.js)</p></div>
+      <div class="tech-chip"><p>Mobile Push</p></div>
+    </div>
+  </div>
+  <div class="layer layer-teal">
+    <p class="layer-label">② AGENT LAYER</p>
+    <div class="layer-content">
+      <div class="tech-chip"><p>Gemini 2.5 Pro</p></div>
+      <div class="tech-chip"><p>Vertex AI Agent Builder</p></div>
+      <div class="tech-chip"><p>ADK (Multi-Agent)</p></div>
+      <div class="tech-chip"><p>Proactive Scheduler</p></div>
+    </div>
+  </div>
+  <div class="layer">
+    <p class="layer-label">③ KNOWLEDGE / RAG</p>
+    <div class="layer-content">
+      <div class="tech-chip"><p>Vertex AI Search</p></div>
+      <div class="tech-chip"><p>Vector Search</p></div>
+      <div class="tech-chip"><p>Cloud Storage (Docs)</p></div>
+      <div class="tech-chip"><p>Persona Prompt Store</p></div>
+    </div>
+  </div>
+  <div class="layer">
+    <p class="layer-label">④ DATA / INTEGRATION</p>
+    <div class="layer-content">
+      <div class="tech-chip"><p>BigQuery (Skill Map)</p></div>
+      <div class="tech-chip"><p>HRIS / 公募DB API</p></div>
+      <div class="tech-chip"><p>Cloud Run Jobs (ETL)</p></div>
+      <div class="tech-chip"><p>IAM / VPC-SC</p></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

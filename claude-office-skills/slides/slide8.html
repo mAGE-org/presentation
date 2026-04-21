@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #FAF7F2; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #FAF7F2;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #1C2833;
+  display: flex;
+  flex-direction: column;
+}
+.topbar {
+  padding: 16pt 48pt 4pt 48pt;
+  display: flex;
+  align-items: center;
+}
+.page-num {
+  color: #E76F51;
+  font-size: 10pt;
+  font-weight: bold;
+  letter-spacing: 2pt;
+  margin: 0 16pt 0 0;
+}
+.page-title {
+  color: #1F4E5F;
+  font-size: 11pt;
+  letter-spacing: 2pt;
+  font-weight: bold;
+  margin: 0;
+}
+.headline {
+  color: #1C2833;
+  font-size: 22pt;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+  margin: 2pt 48pt 12pt 48pt;
+  line-height: 1.3;
+}
+.hl-accent { color: #E76F51; }
+.roadmap {
+  display: flex;
+  padding: 0 48pt 18pt 48pt;
+  gap: 12pt;
+  flex: 1;
+}
+.phase {
+  flex: 1;
+  background: #FFFFFF;
+  border-radius: 12pt;
+  padding: 14pt 16pt;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 2px 3px 8px rgba(28, 40, 51, 0.08);
+}
+.tag-box {
+  display: flex;
+  margin: 0 0 6pt 0;
+}
+.tag-inner {
+  background: #EAF1F3;
+  border-radius: 10pt;
+  padding: 3pt 10pt;
+}
+.tag-inner p {
+  margin: 0;
+  color: #277884;
+  font-size: 9pt;
+  font-weight: bold;
+  letter-spacing: 1.5pt;
+}
+.phase-num {
+  color: #E76F51;
+  font-size: 11pt;
+  font-weight: bold;
+  letter-spacing: 2pt;
+  margin: 6pt 0 2pt 0;
+}
+.phase-title {
+  color: #1F4E5F;
+  font-size: 16pt;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+  margin: 0 0 8pt 0;
+  line-height: 1.25;
+}
+.phase-goal {
+  color: #1C2833;
+  font-size: 10.5pt;
+  margin: 0 0 8pt 0;
+  line-height: 1.45;
+  font-weight: bold;
+}
+.phase ul {
+  margin: 0;
+  padding-left: 14pt;
+}
+.phase li {
+  color: #1C2833;
+  font-size: 9.5pt;
+  margin: 0 0 3pt 0;
+  line-height: 1.45;
+}
+.phase-kpi {
+  margin: 8pt 0 0 0;
+  padding: 6pt 10pt;
+  background: #FAF7F2;
+  border-left: 4pt solid #E76F51;
+  border-radius: 4pt;
+}
+.phase-kpi p {
+  margin: 0;
+  color: #1F4E5F;
+  font-size: 9pt;
+  line-height: 1.4;
+}
+.phase-kpi .kpi-label { color: #E76F51; font-weight: bold; }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <p class="page-num">08 / ROADMAP</p>
+  <p class="page-title">導入ロードマップ</p>
+</div>
+<p class="headline"><span class="hl-accent">3フェーズ</span> で、個人 → 習慣 → 組織データへ拡張</p>
+<div class="roadmap">
+  <div class="phase">
+    <div class="tag-box"><div class="tag-inner"><p>MONTH 1-3</p></div></div>
+    <p class="phase-num">PHASE 01</p>
+    <p class="phase-title">MVP：キャリア相談</p>
+    <p class="phase-goal">まず "発見" の価値を一点突破</p>
+    <ul>
+      <li>社内インタビュー記事をRAGに投入</li>
+      <li>ロールモデル社員との疑似対話</li>
+      <li>自社ならではのキャリアパス提案</li>
+      <li>1部署でパイロット導入</li>
+    </ul>
+    <div class="phase-kpi">
+      <p><span class="kpi-label">KPI：</span>週次利用率・視野拡張の体感率</p>
+    </div>
+  </div>
+  <div class="phase">
+    <div class="tag-box"><div class="tag-inner"><p>MONTH 4-8</p></div></div>
+    <p class="phase-num">PHASE 02</p>
+    <p class="phase-title">プロアクティブ機能</p>
+    <p class="phase-goal">"継続" で孤立を生まない</p>
+    <ul>
+      <li>AIから自発的な励まし通知</li>
+      <li>公募更新のリアルタイム通知</li>
+      <li>新人向け定期メンタリング</li>
+      <li>1on1前の棚卸しサマリ生成</li>
+    </ul>
+    <div class="phase-kpi">
+      <p><span class="kpi-label">KPI：</span>エンゲージメント・公募応募数</p>
+    </div>
+  </div>
+  <div class="phase">
+    <div class="tag-box"><div class="tag-inner"><p>MONTH 9-12</p></div></div>
+    <p class="phase-num">PHASE 03</p>
+    <p class="phase-title">組織データ活用</p>
+    <p class="phase-goal">"組織" として経営レバーへ</p>
+    <ul>
+      <li>全社スキルマップの自動蓄積</li>
+      <li>社員同士のマッチング推薦</li>
+      <li>プロジェクト人員配置の最適化</li>
+      <li>人事・経営ダッシュボード連携</li>
+    </ul>
+    <div class="phase-kpi">
+      <p><span class="kpi-label">KPI：</span>離職率低下・配置リードタイム短縮</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>
