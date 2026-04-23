@@ -1,0 +1,1900 @@
+{
+  "slide-0": {
+    "shape-0": {
+      "left": 1.03,
+      "top": 0.98,
+      "width": 6.98,
+      "height": 3.77,
+      "paragraphs": [
+        {
+          "text": "Pitch Deck",
+          "font_name": "Tex Gyre Termes Bold",
+          "font_size": 159.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 127.99
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 17.35,
+      "top": 0.99,
+      "width": 1.93,
+      "height": 0.81,
+      "paragraphs": [
+        {
+          "text": "Ingoude Company",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.03,
+      "top": 4.98,
+      "width": 10.98,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "AI‑Powered Workflow Automation Platform",
+          "font_name": "Open Sauce",
+          "font_size": 27.99,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 1.03,
+      "top": 9.75,
+      "width": 10.98,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "MorgaN MAXWELL",
+          "alignment": "JUSTIFY",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 17.35,
+      "top": 9.81,
+      "width": 1.93,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "2026",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    }
+  },
+  "slide-1": {
+    "shape-0": {
+      "left": 1.03,
+      "top": 1.18,
+      "width": 6.98,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "The Problem",
+          "font_name": "Tex Gyre Termes Bold",
+          "font_size": 80.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 64.0
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 17.35,
+      "top": 0.99,
+      "width": 1.93,
+      "height": 0.81,
+      "paragraphs": [
+        {
+          "text": "Ingoude Company",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.03,
+      "top": 3.19,
+      "width": 10.98,
+      "height": 2.16,
+      "paragraphs": [
+        {
+          "text": "Organizations rely on scattered tools and manual processes that slow decisions, create inconsistent customer experiences, and increase operating risk.",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 1.03,
+      "top": 5.78,
+      "width": 10.98,
+      "height": 2.04,
+      "paragraphs": [
+        {
+          "text": "Teams re‑enter data, manage approvals by email, and struggle to surface insights quickly. Leaders need a dependable way to orchestrate workflows across departments while keeping quality high and costs predictable.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 17.35,
+      "top": 9.81,
+      "width": 1.93,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "2",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    }
+  },
+  "slide-2": {
+    "shape-0": {
+      "left": 1.03,
+      "top": 1.18,
+      "width": 9.75,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Differentiation",
+          "font_name": "Tex Gyre Termes Bold",
+          "font_size": 80.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 64.0
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 17.35,
+      "top": 0.99,
+      "width": 1.93,
+      "height": 0.81,
+      "paragraphs": [
+        {
+          "text": "Ingoude Company",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.42,
+      "top": 3.77,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "1",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 2.57,
+      "top": 3.68,
+      "width": 4.0,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Configurable",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 8.13,
+      "top": 3.77,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "3",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 9.2,
+      "top": 3.68,
+      "width": 5.04,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "AI with guardrails",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 2.57,
+      "top": 4.64,
+      "width": 4.0,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "Teams assemble workflows without long projects.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-7": {
+      "left": 9.2,
+      "top": 4.64,
+      "width": 5.04,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Human‑in‑the‑loop and explainable suggestions.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-8": {
+      "left": 1.42,
+      "top": 7.47,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "2",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-9": {
+      "left": 2.57,
+      "top": 7.37,
+      "width": 4.0,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Clear visibility",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-10": {
+      "left": 8.13,
+      "top": 7.47,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "4",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-11": {
+      "left": 9.2,
+      "top": 7.37,
+      "width": 5.04,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Open by default",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-12": {
+      "left": 2.57,
+      "top": 8.34,
+      "width": 4.0,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "From request to result with full auditability.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-13": {
+      "left": 9.2,
+      "top": 8.34,
+      "width": 5.04,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Connects to data and services through standard APIs.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-14": {
+      "left": 17.35,
+      "top": 9.81,
+      "width": 1.93,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "8",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    }
+  },
+  "slide-3": {
+    "shape-0": {
+      "left": 1.03,
+      "top": 1.18,
+      "width": 9.75,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Product at a Glance",
+          "font_name": "Tex Gyre Termes Bold",
+          "font_size": 80.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 64.0
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 17.35,
+      "top": 0.99,
+      "width": 1.93,
+      "height": 0.81,
+      "paragraphs": [
+        {
+          "text": "Ingoude Company",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.03,
+      "top": 6.86,
+      "width": 3.66,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Design",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 6.17,
+      "top": 6.86,
+      "width": 3.66,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Automate",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 11.3,
+      "top": 6.86,
+      "width": 3.66,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Measure",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 1.03,
+      "top": 7.83,
+      "width": 3.66,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "Drag‑and‑drop builder for forms, rules, and steps.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 6.17,
+      "top": 7.83,
+      "width": 3.66,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "AI assists with classification, extraction, and routing.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-7": {
+      "left": 11.3,
+      "top": 7.83,
+      "width": 3.66,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "Live dashboards, audit history, and outcome tracking.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-8": {
+      "left": 17.35,
+      "top": 9.81,
+      "width": 1.93,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "4",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    }
+  },
+  "slide-4": {
+    "shape-0": {
+      "left": 1.03,
+      "top": 1.18,
+      "width": 9.75,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Product Roadmap",
+          "font_name": "Tex Gyre Termes Bold",
+          "font_size": 80.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 64.0
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 17.35,
+      "top": 0.99,
+      "width": 1.93,
+      "height": 0.81,
+      "paragraphs": [
+        {
+          "text": "Ingoude Company",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.03,
+      "top": 6.86,
+      "width": 3.66,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Near Term",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 6.17,
+      "top": 6.86,
+      "width": 3.66,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Mid Term",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 11.3,
+      "top": 6.86,
+      "width": 3.66,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Later",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 1.03,
+      "top": 7.83,
+      "width": 3.66,
+      "height": 2.04,
+      "paragraphs": [
+        {
+          "text": "Improved builder ergonomics, template marketplace, and policy testing.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 6.17,
+      "top": 7.83,
+      "width": 3.66,
+      "height": 2.04,
+      "paragraphs": [
+        {
+          "text": "Domain‑specific AI skills, deeper role permissions, offline mobile tasks.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-7": {
+      "left": 11.3,
+      "top": 7.83,
+      "width": 3.66,
+      "height": 2.04,
+      "paragraphs": [
+        {
+          "text": "Autonomous workflow suggestions with human control and full explainability.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-8": {
+      "left": 17.35,
+      "top": 9.81,
+      "width": 1.93,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "9",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    }
+  },
+  "slide-5": {
+    "shape-0": {
+      "left": 1.03,
+      "top": 1.18,
+      "width": 9.75,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "How It Works",
+          "font_name": "Tex Gyre Termes Bold",
+          "font_size": 80.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 64.0
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 17.35,
+      "top": 0.99,
+      "width": 1.93,
+      "height": 0.81,
+      "paragraphs": [
+        {
+          "text": "Ingoude Company",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.42,
+      "top": 3.81,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "1",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 2.67,
+      "top": 3.35,
+      "width": 5.09,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Intake: Capture requests via web, mobile, or system events.",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 9.22,
+      "top": 3.81,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "4",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 10.46,
+      "top": 3.34,
+      "width": 5.09,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "Action: Trigger updates, generate documents, and notify stakeholders.",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 1.42,
+      "top": 6.15,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "2",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-7": {
+      "left": 2.67,
+      "top": 5.68,
+      "width": 5.09,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "Enrichment: Extract key fields, validate entries, and detect duplicates.",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-8": {
+      "left": 9.22,
+      "top": 6.15,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "5",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-9": {
+      "left": 10.46,
+      "top": 5.68,
+      "width": 5.09,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "Review: Collect approvals with traceable comments and versions.",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-10": {
+      "left": 1.42,
+      "top": 8.49,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "3",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-11": {
+      "left": 2.67,
+      "top": 8.03,
+      "width": 5.09,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Routing: Assign tasks to people or services based on policies.",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-12": {
+      "left": 9.22,
+      "top": 8.49,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "6",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-13": {
+      "left": 10.46,
+      "top": 8.02,
+      "width": 5.09,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "Insight: Monitor cycle times, queues, and outcomes in real time.",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-14": {
+      "left": 17.35,
+      "top": 9.81,
+      "width": 1.93,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "5",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    }
+  },
+  "slide-6": {
+    "shape-0": {
+      "left": 1.03,
+      "top": 1.18,
+      "width": 9.75,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Value Proposition",
+          "font_name": "Tex Gyre Termes Bold",
+          "font_size": 80.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 64.0
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 17.35,
+      "top": 0.99,
+      "width": 1.93,
+      "height": 0.81,
+      "paragraphs": [
+        {
+          "text": "Ingoude Company",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.76,
+      "top": 4.15,
+      "width": 4.88,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "For Operators",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 9.04,
+      "top": 4.15,
+      "width": 4.88,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "For Leaders",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 1.53,
+      "top": 5.36,
+      "width": 5.17,
+      "height": 2.83,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.19
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Fewer handoffs",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "F6F3EA",
+          "line_spacing": 52.5
+        },
+        {
+          "text": "Clear ownership",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "F6F3EA",
+          "line_spacing": 52.5
+        },
+        {
+          "text": "Consistent templates",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "F6F3EA",
+          "line_spacing": 52.5
+        },
+        {
+          "text": "Faster cycle times",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "F6F3EA",
+          "line_spacing": 52.5
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 8.81,
+      "top": 5.36,
+      "width": 5.17,
+      "height": 2.83,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.19
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Visibility into work in flight",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "F6F3EA",
+          "line_spacing": 52.5
+        },
+        {
+          "text": "Policy enforcement by design",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "F6F3EA",
+          "line_spacing": 52.5
+        },
+        {
+          "text": "Predictable outcomes",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "F6F3EA",
+          "line_spacing": 52.5
+        },
+        {
+          "text": "Lower operational risk",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "F6F3EA",
+          "line_spacing": 52.5
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 17.35,
+      "top": 9.81,
+      "width": 1.93,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "7",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    }
+  },
+  "slide-7": {
+    "shape-0": {
+      "left": 1.03,
+      "top": 1.18,
+      "width": 9.75,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Product at a Glance",
+          "font_name": "Tex Gyre Termes Bold",
+          "font_size": 80.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 64.0
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 17.35,
+      "top": 0.99,
+      "width": 1.93,
+      "height": 0.81,
+      "paragraphs": [
+        {
+          "text": "Ingoude Company",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.03,
+      "top": 6.86,
+      "width": 3.66,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Design",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 6.17,
+      "top": 6.86,
+      "width": 3.66,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Automate",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 11.3,
+      "top": 6.86,
+      "width": 3.66,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Measure",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 1.03,
+      "top": 7.83,
+      "width": 3.66,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "Drag‑and‑drop builder for forms, rules, and steps.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 6.17,
+      "top": 7.83,
+      "width": 3.66,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "AI assists with classification, extraction, and routing.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-7": {
+      "left": 11.3,
+      "top": 7.83,
+      "width": 3.66,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "Live dashboards, audit history, and outcome tracking.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-8": {
+      "left": 17.35,
+      "top": 9.81,
+      "width": 1.93,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "4",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    }
+  },
+  "slide-8": {
+    "shape-0": {
+      "left": 1.03,
+      "top": 1.18,
+      "width": 6.98,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Our Solution",
+          "font_name": "Tex Gyre Termes Bold",
+          "font_size": 80.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 64.0
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 17.35,
+      "top": 0.99,
+      "width": 1.93,
+      "height": 0.81,
+      "paragraphs": [
+        {
+          "text": "Ingoude Company",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.03,
+      "top": 3.19,
+      "width": 10.98,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Unified Automation & Experience Platform",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 1.03,
+      "top": 4.0,
+      "width": 10.98,
+      "height": 2.83,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.19
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Build workflows visually and standardize best practices",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 52.5
+        },
+        {
+          "text": "Integrate with existing systems through connectors and APIs",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 52.5
+        },
+        {
+          "text": "Apply responsible AI to classify, route, and summarize work",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 52.5
+        },
+        {
+          "text": "Provide role‑based dashboards for operators and leaders",
+          "bullet": true,
+          "level": 1,
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 52.5
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 17.35,
+      "top": 9.81,
+      "width": 1.93,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "3",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    }
+  },
+  "slide-9": {
+    "shape-0": {
+      "left": 1.03,
+      "top": 1.18,
+      "width": 9.75,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Differentiation",
+          "font_name": "Tex Gyre Termes Bold",
+          "font_size": 80.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 64.0
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 17.35,
+      "top": 0.99,
+      "width": 1.93,
+      "height": 0.81,
+      "paragraphs": [
+        {
+          "text": "Ingoude Company",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.42,
+      "top": 3.77,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "1",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 2.57,
+      "top": 3.68,
+      "width": 4.0,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Configurable",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 8.13,
+      "top": 3.77,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "3",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-5": {
+      "left": 9.2,
+      "top": 3.68,
+      "width": 5.04,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "AI with guardrails",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-6": {
+      "left": 2.57,
+      "top": 4.64,
+      "width": 4.0,
+      "height": 1.52,
+      "paragraphs": [
+        {
+          "text": "Teams assemble workflows without long projects.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-7": {
+      "left": 9.2,
+      "top": 4.64,
+      "width": 5.04,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Human‑in‑the‑loop and explainable suggestions.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-8": {
+      "left": 1.42,
+      "top": 7.47,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "2",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-9": {
+      "left": 2.57,
+      "top": 7.37,
+      "width": 4.0,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Clear visibility",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-10": {
+      "left": 8.13,
+      "top": 7.47,
+      "width": 0.61,
+      "height": 0.69,
+      "paragraphs": [
+        {
+          "text": "4",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "F6F3EA",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-11": {
+      "left": 9.2,
+      "top": 7.37,
+      "width": 5.04,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Open by default",
+          "font_name": "Open Sauce Bold",
+          "font_size": 27.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-12": {
+      "left": 2.57,
+      "top": 8.34,
+      "width": 4.0,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "From request to result with full auditability.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-13": {
+      "left": 9.2,
+      "top": 8.34,
+      "width": 5.04,
+      "height": 1.0,
+      "paragraphs": [
+        {
+          "text": "Connects to data and services through standard APIs.",
+          "font_name": "Open Sauce",
+          "font_size": 21.0,
+          "color": "31220C",
+          "line_spacing": 37.8
+        }
+      ]
+    },
+    "shape-14": {
+      "left": 17.35,
+      "top": 9.81,
+      "width": 1.93,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "8",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    }
+  },
+  "slide-10": {
+    "shape-0": {
+      "left": 17.35,
+      "top": 0.99,
+      "width": 1.93,
+      "height": 0.81,
+      "paragraphs": [
+        {
+          "text": "Ingoude Company",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-1": {
+      "left": 1.03,
+      "top": 5.92,
+      "width": 10.3,
+      "height": 2.0,
+      "paragraphs": [
+        {
+          "text": "The End",
+          "font_name": "Tex Gyre Termes Bold",
+          "font_size": 159.99,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 127.99
+        }
+      ]
+    },
+    "shape-2": {
+      "left": 1.03,
+      "top": 8.15,
+      "width": 10.98,
+      "height": 0.54,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.11
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "Thank You For Listening",
+          "font_name": "Open Sauce",
+          "font_size": 27.99,
+          "color": "31220C",
+          "line_spacing": 39.19
+        }
+      ]
+    },
+    "shape-3": {
+      "left": 1.03,
+      "top": 9.75,
+      "width": 10.98,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "MorgaN MAXWELL",
+          "alignment": "JUSTIFY",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    },
+    "shape-4": {
+      "left": 17.35,
+      "top": 9.81,
+      "width": 1.93,
+      "height": 0.4,
+      "overflow": {
+        "frame": {
+          "overflow_bottom": 0.12
+        }
+      },
+      "paragraphs": [
+        {
+          "text": "2026",
+          "alignment": "CENTER",
+          "font_name": "Open Sauce Bold",
+          "font_size": 21.0,
+          "bold": true,
+          "color": "31220C",
+          "line_spacing": 29.4
+        }
+      ]
+    }
+  }
+}

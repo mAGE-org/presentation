@@ -1,0 +1,537 @@
+{
+  "slide-0": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "Career Nexus", "font_size": 120.0, "bold": true, "color": "31220C", "line_spacing": 100.0 }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "YourCompany", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "あなたのキャリアの選択肢、\"半径5m\"で決めていませんか？", "font_size": 27.99, "color": "31220C" }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        { "text": "AI Career Agent for Your Company", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        { "text": "2026", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    }
+  },
+
+  "slide-1": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "課題提起", "font_size": 80.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "YourCompany", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "大企業なのに\"自分の周りしか見えない\" ― ロールモデル不在、やりたいことと違う、部署の外が見えない、異動が期待と違った。辞める人の多くは会社が嫌いなのではなく「可能性が見えない」から辞めている。", "font_size": 24.0, "bold": true, "color": "31220C", "line_spacing": 36.0 }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        { "text": "大卒3年以内離職率 32-34%（大企業でも25-27%）。若手離職理由の上位は「仕事のミスマッチ（25-30%）」「キャリアの見通し不安（25-28%）」。日本の熱意ある社員はわずか5-6%で世界最低水準（Gallup 2023）。新卒1人の離職コストは約150-200万円。", "font_size": 18.0, "color": "31220C", "line_spacing": 32.0 }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        { "text": "2", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    }
+  },
+
+  "slide-2": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "数字で見る課題", "font_size": 80.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "YourCompany", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "1", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        { "text": "離職率 32-34%", "font_size": 22.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        { "text": "3", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-5": {
+      "paragraphs": [
+        { "text": "熱意ある社員 5-6%", "font_size": 22.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-6": {
+      "paragraphs": [
+        { "text": "大卒3年以内の離職率。3人に1人が辞める。", "font_size": 16.0, "color": "31220C" }
+      ]
+    },
+    "shape-7": {
+      "paragraphs": [
+        { "text": "世界140カ国中で最低水準（Gallup 2023）。", "font_size": 16.0, "color": "31220C" }
+      ]
+    },
+    "shape-8": {
+      "paragraphs": [
+        { "text": "2", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-9": {
+      "paragraphs": [
+        { "text": "離職理由TOP", "font_size": 22.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-10": {
+      "paragraphs": [
+        { "text": "4", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-11": {
+      "paragraphs": [
+        { "text": "離職コスト", "font_size": 22.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-12": {
+      "paragraphs": [
+        { "text": "ミスマッチ25-30%、キャリア不安25-28%。", "font_size": 16.0, "color": "31220C" }
+      ]
+    },
+    "shape-13": {
+      "paragraphs": [
+        { "text": "1人あたり150-200万円。100人で年間2億円損失。", "font_size": 16.0, "color": "31220C" }
+      ]
+    },
+    "shape-14": {
+      "paragraphs": [
+        { "text": "3", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    }
+  },
+
+  "slide-3": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "なぜ解決されないのか", "font_size": 64.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "YourCompany", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "情報のギャップ", "font_size": 24.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        { "text": "マッチングのギャップ", "font_size": 24.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        { "text": "対話のギャップ", "font_size": 24.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-5": {
+      "paragraphs": [
+        { "text": "多様なキャリアを歩む社員がいるのに、その存在・経験を知る手段がない。1on1は上司の視野に依存。", "font_size": 18.0, "color": "31220C" }
+      ]
+    },
+    "shape-6": {
+      "paragraphs": [
+        { "text": "社内公募は氷山の一角。公募に出ていない部署にも合うポジションが埋もれている。", "font_size": 18.0, "color": "31220C" }
+      ]
+    },
+    "shape-7": {
+      "paragraphs": [
+        { "text": "情報があっても一方通行では「自分ならどうか」を考えられない。壁打ち相手がいない。", "font_size": 18.0, "color": "31220C" }
+      ]
+    },
+    "shape-8": {
+      "paragraphs": [
+        { "text": "4", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    }
+  },
+
+  "slide-4": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "解決策", "font_size": 80.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "YourCompany", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "Phase 1: 発見", "font_size": 24.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        { "text": "Phase 2: 継続", "font_size": 24.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        { "text": "Phase 3: 組織", "font_size": 24.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-5": {
+      "paragraphs": [
+        { "text": "ロールモデルマップ構築、AIとキャリア壁打ち、疑似対話、部署情報・風土データ取込み、公募連動のキャリアパス提案。", "font_size": 16.0, "color": "31220C", "line_spacing": 28.0 }
+      ]
+    },
+    "shape-6": {
+      "paragraphs": [
+        { "text": "個人別キャリアマップ構築、モチベーション把握、AIからの励ましの声かけ、公募更新通知、新人メンタリング。", "font_size": 16.0, "color": "31220C", "line_spacing": 28.0 }
+      ]
+    },
+    "shape-7": {
+      "paragraphs": [
+        { "text": "全社員スキル可視化、プロジェクトへの最適人員配置自動化、勉強会・メンタリングマッチング、流動的な組織の実現。", "font_size": 16.0, "color": "31220C", "line_spacing": 28.0 }
+      ]
+    },
+    "shape-8": {
+      "paragraphs": [
+        { "text": "5", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    }
+  },
+
+  "slide-5": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "デモ", "font_size": 80.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "YourCompany", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "1", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        { "text": "悩みの相談: Slack/TeamsからAIにキャリアの悩みを相談", "font_size": 16.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        { "text": "4", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-5": {
+      "paragraphs": [
+        { "text": "キャリアプラン提案: 自社ならではの具体的キャリアパスが見える", "font_size": 16.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-6": {
+      "paragraphs": [
+        { "text": "2", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-7": {
+      "paragraphs": [
+        { "text": "ロールモデル発見: 意外なキャリアを歩んだ社員を提案", "font_size": 16.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-8": {
+      "paragraphs": [
+        { "text": "5", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-9": {
+      "paragraphs": [
+        { "text": "次のアクション: 公募情報・勉強会・メンターの紹介", "font_size": 16.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-10": {
+      "paragraphs": [
+        { "text": "3", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-11": {
+      "paragraphs": [
+        { "text": "疑似対話: ロールモデルの考え方・学び方をAI対話で深掘り", "font_size": 16.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-12": {
+      "paragraphs": [
+        { "text": "6", "alignment": "CENTER", "font_size": 27.99, "bold": true, "color": "F6F3EA", "line_spacing": 39.19 }
+      ]
+    },
+    "shape-13": {
+      "paragraphs": [
+        { "text": "※ 詳細はデモ動画にて紹介", "font_size": 21.0, "bold": true, "color": "31220C", "line_spacing": 37.8 }
+      ]
+    },
+    "shape-14": {
+      "paragraphs": [
+        { "text": "6", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    }
+  },
+
+  "slide-6": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "進化後のユースケース", "font_size": 64.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "YourCompany", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "Phase 2: モチベーション支援", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        { "text": "Phase 3: 組織最適化", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        { "text": "会話履歴からモチベーションを日々把握・更新", "bullet": true, "level": 1, "font_size": 18.0, "color": "F6F3EA", "line_spacing": 42.0 },
+        { "text": "AIから自発的に声かけでモチベーションアップ", "bullet": true, "level": 1, "font_size": 18.0, "color": "F6F3EA", "line_spacing": 42.0 },
+        { "text": "公募更新通知・新人への定期メンタリング", "bullet": true, "level": 1, "font_size": 18.0, "color": "F6F3EA", "line_spacing": 42.0 }
+      ]
+    },
+    "shape-5": {
+      "paragraphs": [
+        { "text": "全社員スキルマップで最適人員配置を自動化", "bullet": true, "level": 1, "font_size": 18.0, "color": "F6F3EA", "line_spacing": 42.0 },
+        { "text": "勉強会・メンタリングを自動マッチング", "bullet": true, "level": 1, "font_size": 18.0, "color": "F6F3EA", "line_spacing": 42.0 },
+        { "text": "異動ハードルを下げ流動的な組織へ", "bullet": true, "level": 1, "font_size": 18.0, "color": "F6F3EA", "line_spacing": 42.0 }
+      ]
+    },
+    "shape-6": {
+      "paragraphs": [
+        { "text": "7", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    }
+  },
+
+  "slide-7": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "独自性", "font_size": 80.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "YourCompany", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "自社データ x AI", "font_size": 24.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        { "text": "対話で深掘り", "font_size": 24.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        { "text": "蓄積が組織価値に", "font_size": 24.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-5": {
+      "paragraphs": [
+        { "text": "インタビュー記事・スキルデータ・公募情報をRAGで取り込み、その会社ならではのキャリア提案が可能。", "font_size": 18.0, "color": "31220C" }
+      ]
+    },
+    "shape-6": {
+      "paragraphs": [
+        { "text": "AIとの会話で悩みや志向を深掘りし、個人に最適化されたキャリアプランを提示。", "font_size": 18.0, "color": "31220C" }
+      ]
+    },
+    "shape-7": {
+      "paragraphs": [
+        { "text": "個人の会話蓄積で従来得られない情報が溜まり、人員配置・マッチング等の新ユースケースが生まれる。", "font_size": 18.0, "color": "31220C" }
+      ]
+    },
+    "shape-8": {
+      "paragraphs": [
+        { "text": "8", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    }
+  },
+
+  "slide-8": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "アーキテクチャ", "font_size": 72.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "YourCompany", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "Slack/Teamsで気軽に使えるAIキャリアエージェント", "font_size": 24.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        { "text": "ユーザー接点: Slack / Microsoft Teams", "bullet": true, "level": 1, "font_size": 18.0, "color": "31220C", "line_spacing": 42.0 },
+        { "text": "AIエージェント: 壁打ち / 励まし・通知 / マッチング", "bullet": true, "level": 1, "font_size": 18.0, "color": "31220C", "line_spacing": 42.0 },
+        { "text": "RAG検索: インタビュー記事 / 公募情報 / スキルデータ", "bullet": true, "level": 1, "font_size": 18.0, "color": "31220C", "line_spacing": 42.0 },
+        { "text": "データ基盤: ロールモデルマップ / キャリアマップ / スキルマップ", "bullet": true, "level": 1, "font_size": 18.0, "color": "31220C", "line_spacing": 42.0 },
+        { "text": "社内連携: 既存キャリアシステム / 人事システム（将来拡張）", "bullet": true, "level": 1, "font_size": 18.0, "color": "31220C", "line_spacing": 42.0 }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        { "text": "9", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    }
+  },
+
+  "slide-9": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "期待される効果", "font_size": 72.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "YourCompany", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "1", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        { "text": "離職率低下", "font_size": 22.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        { "text": "3", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-5": {
+      "paragraphs": [
+        { "text": "エンゲージメント向上", "font_size": 18.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-6": {
+      "paragraphs": [
+        { "text": "「可能性が見えない」離職を削減。", "font_size": 16.0, "color": "31220C" }
+      ]
+    },
+    "shape-7": {
+      "paragraphs": [
+        { "text": "キャリア展望の明確化で向上。", "font_size": 16.0, "color": "31220C" }
+      ]
+    },
+    "shape-8": {
+      "paragraphs": [
+        { "text": "2", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-9": {
+      "paragraphs": [
+        { "text": "人事工数削減", "font_size": 22.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-10": {
+      "paragraphs": [
+        { "text": "4", "alignment": "CENTER", "font_size": 24.0, "bold": true, "color": "F6F3EA" }
+      ]
+    },
+    "shape-11": {
+      "paragraphs": [
+        { "text": "組織流動性向上", "font_size": 22.0, "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-12": {
+      "paragraphs": [
+        { "text": "人員配置・マッチングをAIが自動化。", "font_size": 16.0, "color": "31220C" }
+      ]
+    },
+    "shape-13": {
+      "paragraphs": [
+        { "text": "異動ハードル低下で適材適所を実現。", "font_size": 16.0, "color": "31220C" }
+      ]
+    },
+    "shape-14": {
+      "paragraphs": [
+        { "text": "10", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    }
+  },
+
+  "slide-10": {
+    "shape-0": {
+      "paragraphs": [
+        { "text": "YourCompany", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-1": {
+      "paragraphs": [
+        { "text": "Career Nexus", "font_size": 100.0, "bold": true, "color": "31220C", "line_spacing": 80.0 }
+      ]
+    },
+    "shape-2": {
+      "paragraphs": [
+        { "text": "半径5mの外に、あなたのキャリアがある", "font_size": 24.0, "color": "31220C" }
+      ]
+    },
+    "shape-3": {
+      "paragraphs": [
+        { "text": "Thank You", "bold": true, "color": "31220C" }
+      ]
+    },
+    "shape-4": {
+      "paragraphs": [
+        { "text": "2026", "alignment": "CENTER", "bold": true, "color": "31220C" }
+      ]
+    }
+  }
+}
